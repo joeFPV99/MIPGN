@@ -1,3 +1,5 @@
 venv/*
 *.pyc
 *.nrrd
+assets/
+pytorch_ssim/
