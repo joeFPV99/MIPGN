@@ -1,5 +1,7 @@
 venv/*
+*.DS_Store
 *.pyc
 *.nrrd
-assets/
-pytorch_ssim/
+PythonBasicsNotebookPt1/assets/*
+PythonBasicsNotebookPt1/pytorch_ssim/*
+PythonBasicsNotebookPt1/DICOM/*
