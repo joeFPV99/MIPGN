@@ -5,3 +5,4 @@ venv/*
 PythonBasicsNotebookPt1/assets/*
 PythonBasicsNotebookPt1/pytorch_ssim/*
 PythonBasicsNotebookPt1/DICOM/*
+matRad/*
