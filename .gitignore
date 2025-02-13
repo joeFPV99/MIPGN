@@ -6,6 +6,7 @@ PythonBasicsNotebookPt1/assets/*
 PythonBasicsNotebookPt1/pytorch_ssim/*
 PythonBasicsNotebookPt1/DICOM/*
 matRad/*
+matRad_2/*
 Radiotherapy_dataset/*
 Registration data set/*
 Testsave/*
